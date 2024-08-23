@@ -1,5 +1,7 @@
 # Wedget0's First CS193 Homework
-
+- I like that CS allows me to make programs and cool new things from scratch
+- I like the automation of simple tasks CS can do
+- I have very minimal prior experience and believe it will be a useful skill to master
 
 
 ## Welcome to GitHub Pages
